@@ -14,3 +14,5 @@ O trabalho prático consitiu em dois exercicios principais:
 
 Durante o desenvolvimento, enfrentei algumas dificuldades como por exemplo no desenho dos raios do sol e na execução da sequência para o boneco encontrar o fim do labirinto.
 Entretanto as dificuldades foram ultrupassadas e as soluções dos exercícios estão disponíveis na pasta TPC.
+
+
